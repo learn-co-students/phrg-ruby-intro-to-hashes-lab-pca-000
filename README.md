@@ -57,4 +57,7 @@ Remember to use `binding.pry` to help you get inside your methods and understand
 1. [What is a Hash in Ruby?](http://ruby.about.com/od/rubyfeatures/a/hashes.htm)
 2. [Ruby Documentation on Hashes](http://ruby-doc.org/core-2.1.3/Hash.html)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-intro-to-hashes-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-intro-to-hashes-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Intro to Hashes Lab</p>
